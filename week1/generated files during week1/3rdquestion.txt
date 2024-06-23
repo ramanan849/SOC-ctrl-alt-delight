@@ -1,1 +1,0 @@
-for i in $(cat key.txt); do (touch echo $i); done

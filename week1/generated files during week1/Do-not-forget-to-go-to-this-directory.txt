@@ -1,2 +1,0 @@
-cd $COMPAS_ROOT_DIR/src
-./COMPAS -v

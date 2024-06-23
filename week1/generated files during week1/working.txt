@@ -1,4 +1,0 @@
-demo.txt;this/is/path
-Hello_myworld.pdf;./this/is/not/end
-Began;end/
-Ohon;ends/
