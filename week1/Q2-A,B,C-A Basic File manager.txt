@@ -1,0 +1,21 @@
+part 1
+
+$ touch demo.txt;this/is/path
+
+------------------------------------------------------------------------------------------------------
+part 2
+
+((tr "[/]" "[&]" < path.txt) > pathi.txt) && (for i in $(cat pathi.txt); do (touch $(echo $i));done)
+
+------------------------------------------------------------------------------------------------------
+part 3
+
+(echo './' > dot.txt) && (for i in $(cat path.txt); do ( echo $i > temp-line.txt) && ((tr "[/]" "[&]" < temp-line.txt) >
+pre-temp-name.txt)&& (echo "'" > quote.txt) && (paste -d '' quote.txt pre-temp-name.txt quote.txt >
+temp-name.txt) && ((cut -d ';' -f2 temp-line.txt) > pre-temp-path.txt) && (paste -d '' dot.txt pre-temp-path.txt >
+temp-path.txt) && (mkdir -p $(cat pre-temp-path.txt)) && (mv $(cat pre-temp-name.txt) $(cat temp-path.txt)) &&
+((cut -d ';' -f1 temp-line.txt) > name.txt) && (cp pre-temp-name.txt name.txt temp-path.txt pre-temp-path.txt $(cat
+temp-path.txt)) && cd $(cat temp-path.txt) && (mv $(cat pre-temp-name.txt) $(cat name.txt)) && ( rm
+pre-temp-name.txt name.txt temp-path.txt pre-temp-path.txt ) && cd pwd; done)
+
+------------------------------------------------------------------------------------------------------------------------

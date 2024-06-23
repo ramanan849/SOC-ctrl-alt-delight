@@ -1,0 +1,3 @@
+dumbledore.txt
+ivar.pdf
+vag.bitmap

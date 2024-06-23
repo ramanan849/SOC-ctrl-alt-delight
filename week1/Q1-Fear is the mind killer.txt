@@ -1,0 +1,1 @@
+$ grep "^Paul \|[.?/! ] Paul \| Paul \| Paul[.?\!] " test.txt
