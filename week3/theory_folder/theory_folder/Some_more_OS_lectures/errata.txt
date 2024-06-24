@@ -1,0 +1,5 @@
+Lecture 14, On slide 6, the text "Child runs, sets done to 0" should be corrected to "Child runs, sets done to 1".
+
+Lecture 15, the first slide introducing semaphores says that the up/post function on a semaphore increments the semaphore counter and does  nothing else. This is incorrect. The up/post function on a semaphore increments the underlying semaphore counter, and wakes up one of the processes sleeping/blocked on the semaphore. Every up/post call wakes up one of the sleeping processes (if it exists), irrespective of the value of the semaphore counter.
+
+Lecture 15, on slide 3, when the child increments the semaphore via sem_post, the semaphore reaches a value of 0 (the annotation on the slide and audio say it reaches a value of 1, this is incorrect).
