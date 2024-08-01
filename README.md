@@ -14,11 +14,17 @@ This repo ontains my code, scripts and reports for the weekly assignments given 
 3. **Week 3** <br>
    i) Learnt about concurrency <br>
   ii) Had practice problems <br>
+***
+**From Week 4 to 8, I was asked to submit the .asm (assembly) files and the entire modified source code of MikeOS and was not told to make a report. For the last week (week 8) however, I was supposed to make a .md file to explain my answers and my NASM code for various assignments that had been provided.** <br>      
 4. **Week 4** <br>
    i) First objective - to install and run MikeOS on an emulator (QEMU on Linux); had to get the audio working <br>
    ii) Second objective - to insert custom text in the command-line of MikeOS by editing the assembly files concerning cli.asm and kernel.asm <br>
-  iii) Introduction to NASM and some practice problems <br>
-5. **Week 5 and 6** <br>
+  iii) Introduction to NASM (assembly language) and some practice problems <br>
+5. **Week 5** <br>
+   Learnt how CLI commands are implemented in MikeOS.
+   i) First task : to implement a basic command TELLJOKE that prints a joke to the terminal.
+   ii) Second task : to modify the TELLJOKE command implemented 
+7. 
    i) Understanding memory management in MikeOS : how variables are stored, files are loaded and retrieved  
   
 
