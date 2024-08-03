@@ -37,3 +37,8 @@ This repository contains my code, scripts and reports for the weekly assignments
    _**Understanding** memory management in MikeOS : how variables are stored, files are loaded and retrieved, Creating **SYSCALLS** by editing the kernel of MikeOS, doing this and that_   
   
 
+***
+**Resources** shared by my mentors (Arvind, Himanshu and Mayank) : <br>
+   1. Arvind's - https://github.com/kingmk-3/SoC_week1 and https://github.com/kingmk-3/SoC_week2
+   2. Mayank's - week3/theory_folder/theory_folder
+   3. Himanshu's - https://github.com/hotramen-hellfire/-ctrl-alt-delight-
