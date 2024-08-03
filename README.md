@@ -1,4 +1,4 @@
-# SOC-Code-ctrl-alt-delight <br>
+# SOC: Unix-ctrl-alt-delight <br>
 **Name** : R S Gokularamanan <br>
 **Roll No** : 23B1854 <br>
 **Project** : A Unix Journey: Ctrl+Alt+Delight <br>
