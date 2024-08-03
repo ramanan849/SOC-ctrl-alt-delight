@@ -27,13 +27,13 @@ This repository contains my code, scripts and reports for the weekly assignments
   (Link to video showing working audio on MikeOS : https://youtu.be/mzwOUsKkxq0)
   
 5. **Week 5** <br>
-   **Learnt** how CLI commands are implemented in MikeOS CLI. <br>
+   _**Learnt** how CLI commands are implemented in MikeOS CLI._ <br>
    i. First task : to implement a basic command TELLJOKE that prints a joke to the terminal. <br>
    ii. Second task : to modify the TELLJOKE command implemented such that each time the command is executed, a different joke had to be printed. Here, I had to learn how **random number generation** worked in MikeOS. <br>
    iii. Third task (BOSS level) : Here, I had to further modify the already modified TELLJOKE command such that a **Musical tune** played before displaying a random joke. This involved learning how to play musical notes and upping my music skill to play a tune (I managed to a create scrawny version of the classic 'Mary had a little lamp'). <br>
    
 6. **Week 6 and 7** <br>
    (It involved pretty heavy things to learn and understand, along with longer and more difficult assignments, hence this spanned over two week2) <br>
-   **Understanding** memory management in MikeOS : how variables are stored, files are loaded and retrieved, Creating **SYSCALLS** by editing the kernel of MikeOS,   
+   _**Understanding** memory management in MikeOS : how variables are stored, files are loaded and retrieved, Creating **SYSCALLS** by editing the kernel of MikeOS, doing this and that_   
   
 
