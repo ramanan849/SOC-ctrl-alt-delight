@@ -1,5 +1,0 @@
-step 0 - be in mikeOS dir
-step 1 - $ sudo bash
-step 2 - $ ./build-linux.sh 
-
-that's all
