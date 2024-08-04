@@ -1,6 +1,7 @@
-# Week5 - level-1-explanations and 'BOSS' <br>
+# Week5 - explanations and 'BOSS' <br>
 **Explanations for questions asked in Week 5's markdown : [Furelise](https://github.com/hotramen-hellfire/-ctrl-alt-delight-/blob/main/FurElise().md)** <br>
 ***
+_**Level 1**_
 1. the time string is fetched using the os_get_time function. It gets the time string and is stored in the temp_string in 'bx', which later is moved to 'si', from which the stored info is printed on the cli using 'os_print_string'. <br>
 
 2. os_get_time_string is defined in the 'strings.asm' file which contains a load of string functions in it. The function obtains the 'time data' from BIOS, in BCD format. <br>
