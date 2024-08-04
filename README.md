@@ -34,8 +34,8 @@ This repository contains my code, scripts and reports for the weekly assignments
       
 6. **Week 6 and 7**  - was told to make a [report]() for these two weeks <br> 
    (It involved pretty heavy things to learn and understand, along with longer and more difficult assignments, hence this spanned over two week2) <br>
-   _**Understanding** *memory management* in MikeOS: how variables are stored, userspace programs are handled, files are loaded and retrieved <br>
-   **Creating** *SYSCALLS* by editing the kernel of MikeOS, and implementing them in self-made and modified programs_   <br>
+   _[**Understanding** *memory management* in MikeOS: how variables are stored, userspace programs are handled, files are loaded and retrieved <br>
+   **Creating** *SYSCALLS* by editing the kernel of MikeOS, and implementing them in self-made and modified programs_ ]  <br> <br>
       i. First task : To create a simple SYSCALL (system call function, a function that has global scope - can be used throughout the OS) called *os_say_hello* which prints a simple text message such as "Hello, is this real?!" <br>
       ii. Second task : To create a program that takes in an input of a program (.bin) and open it. This had two parts:
             a. To get started, I had to create a program **meraprog.bin** that opened files (.bin as well as .bas) whose names were given as input on CLI and loaded at the default memory location (32768).   <br>
