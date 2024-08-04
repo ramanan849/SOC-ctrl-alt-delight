@@ -1,4 +1,6 @@
 # Week4 - explanations
+![image](https://github.com/user-attachments/assets/53923a48-c5e4-48de-8c64-be609ad55533)
+
 1. Cmd-to-start-mikeos-on-qemu-with-audio-fix : <br>
 
     _qemu-system-i386 -audiodev pa,id=audio0 -machine pcspk-audiodev=audio0 -drive format=raw,file=disk_images/mikeos.flp_ <br>
