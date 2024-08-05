@@ -3,7 +3,7 @@
 **Roll No** : 23B1854 <br>
 **Project** : A Unix Journey: Ctrl+Alt+Delight <br>
 **Project ID** : 29 <br>
-**[End-Term Video](https://drive.google.com/file/d/11jwkYkQjS4E09D6s8uh5u7R5UXZa72Qh/view?usp=sharing)**
+**[End-Term Video](https://drive.google.com/file/d/11jwkYkQjS4E09D6s8uh5u7R5UXZa72Qh/view?usp=sharing)** <br>
 This repository contains my code, scripts and reports for the weekly assignments given by my mentors. <br>
 1. **[Week 1](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week1)** <br>
       i. Basics of linux terminal commands, shortcuts, and technical know-hows. <br>
