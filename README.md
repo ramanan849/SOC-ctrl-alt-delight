@@ -5,34 +5,36 @@
 **Project ID** : 29 <br>
 
 This repository contains my code, scripts and reports for the weekly assignments given by my mentors. <br>
-1. **Week 1** <br>
+1. **[Week 1](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week1)** <br>
       i. Basics of linux terminal commands, shortcuts, and technical know-hows. <br>
       ii. Had an assignment <br>
   
-2. **Week 2** <br>
+2. **[Week 2](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week2)** <br>
       i. Learnt how to create scripts and execute them. <br>
       ii. The assignment had questions, some of which were technically upgraded versions of week1 questions, while the others involved creating an interactive session on CLI using fancy ascii symbols. <br>
      
-3. **Week 3** <br>
+3. **[Week 3](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week3)** <br>
       i. Learnt about concurrency <br>
       ii. Had practice problems <br>
   
 ***
-**From Week 4 to 8, I was asked to submit the .asm (assembly) files and the entire modified source code of MikeOS and was not told to make a report. For the last week (week 8) however, I was supposed to make a .md file to explain my answers and my NASM code for various assignments that had been provided. So, the following will include a brief** <br>  
+**From Week 4 to 8, I was asked to submit the .asm (assembly) files and the entire modified source code of MikeOS and was not told to make a report. For weeks 5,6 and 7 however, I was supposed to make a .md file to explain my answers and my NASM code for various assignments that had been provided. 
+The folder _[Reports for weekly assignments](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/Reports%20for%20weekly%20assignments)_ will contain all the reports and explanations** <br>
+So, the following will include a brief of what each week's contents were.** <br>  
 
-4. **Week 4** <br>
+4. **[Week 4](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week4)** <br>
       i. First objective - to install and run MikeOS on an emulator (QEMU on Linux); had to get the audio working <br>
       ii. Second objective - to insert custom text in the command-line of MikeOS by editing the assembly files concerning cli.asm and kernel.asm <br>
      iii. Introduction to NASM (assembly language) and some practice problems <br>
      (Link to video showing working audio on MikeOS : https://youtu.be/mzwOUsKkxq0)
   
-5. **Week 5** <br>
+5. **[Week 5](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week5)** <br>
    _**Learnt** how CLI commands are implemented in MikeOS CLI._ <br>
       i. First task : to implement a basic command TELLJOKE that prints a joke to the terminal. <br>
       ii. Second task : to modify the TELLJOKE command implemented such that each time the command is executed, a different joke had to be printed. Here, I had to learn how **random number generation** worked in MikeOS. <br>
       iii.  **[Boss Level]** Third task : Here, I had to further modify the already modified TELLJOKE command such that a **Musical tune** played before displaying a random joke. This involved learning how to play musical notes and upping my music skill to play a tune (I managed to a create scrawny version of the classic 'Mary had a little lamp'). <br>
       
-6. **Week 6 and 7**  - was told to make a [report]() for these two weeks <br> 
+6. **[Week 6 and 7](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week6%2C7)**  - was told to make a [report]() for these two weeks <br> 
    (It involved pretty heavy things to learn and understand, along with longer and more difficult assignments, hence this spanned over two week2) <br>
    _[**Understanding** *memory management* in MikeOS: how variables are stored, userspace programs are handled, files are loaded and retrieved <br>
    **Creating** *SYSCALLS* by editing the kernel of MikeOS, and implementing them in self-made and modified programs_ ]  <br> <br>
