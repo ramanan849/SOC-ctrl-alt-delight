@@ -151,5 +151,7 @@ start:
     end     db 'thats all for now! hang tight!'
 
 ```
-
+# Videos
+1. [Video for MemMan and Eggzec](https://drive.google.com/file/d/1IZu36Uvi8AyqkjxAQDvWTbVvGiz-gC8t/view?usp=drive_link)
+2. [Video for the final BOSS]()
 		
