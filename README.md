@@ -44,7 +44,9 @@ Now, the following will include a brief of what each week's contents were.** <br
             b. In the next part, I had to make a program **eggzec.bin** just to open one certain file: _"keebored.bin"_, which I created by modifying an already existing program, _"keyboard.bin"_ (an electronic keyboard from which we can play music) such that once _keebored.bin_ is closed, a text message such as _"Execution done!!!"_ is displayed on the CLI. To do all this, I had to understand how I could load programs into RAM and at what specific locations. <br>
             c. To achieve part b, I had to create a new function call _**os_exec_bin**_ which could execute programs loaded at any memory location (>32768). <br>
       iii. **[Boss Level]** Third task : This involved a generalization of **eggzec.bin** which used _os_exec_bin_ and could be able to load any program (user-defined and system) from any RAM location in MikeOS (if location was specified, then load the program at that point (the program must also be coded to always load at the point), otherwise, just load it from the default the location, i.e., 32768).  <br>
-  
+
+7. **Week 8** <br>
+   Pretty chill; nothing happened; no assignment <br>
 
 ***
 **Resources** shared by my mentors (Arvind, Himanshu and Mayank) : <br>
