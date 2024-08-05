@@ -18,8 +18,8 @@ This repository contains my code, scripts and reports for the weekly assignments
       ii. Had practice problems <br>
   
 ***
-**From Week 4 to 8, I was asked to submit the .asm (assembly) files and the entire modified source code of MikeOS and was not told to make a report. For weeks 5,6 and 7 however, I was supposed to make a .md file to explain my answers and my NASM code for various assignments that had been provided. 
-The folder _[Reports for weekly assignments](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/Reports%20for%20weekly%20assignments)_ will contain all the reports and explanations** <br>
+**From Week 4 to 8, I was asked to submit the .asm (assembly) files and the entire modified source code of MikeOS and was not told to make a report. For weeks 5,6 and 7 however, I was supposed to make a .md file to explain my answers and my NASM code for various assignments that had been provided. <br>
+The folder _[Reports for weekly assignments](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/Reports%20for%20weekly%20assignments)_ will contain all the reports and explanations<br>
 So, the following will include a brief of what each week's contents were.** <br>  
 
 4. **[Week 4](https://github.com/ramanan849/SOC-ctrl-alt-delight/tree/fd1ce6bfca8c3385a4130424e80d47fca4945a65/week4)** <br>
